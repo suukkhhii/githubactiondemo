@@ -1,0 +1,2 @@
+source: SCOM-NZ. source instance: NZ SCOM (Prod). % Free Space is too low for filesystem: /gpfs/saswork  - 
+The threshold for the Logical Disk\% Free Space performance counter has been exceeded. The value that exceeded the threshold is: 0% Free Space.
