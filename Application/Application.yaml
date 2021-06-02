@@ -1,0 +1,14 @@
+source: DynatraceSaas-NZ. source instance: NZ Pre-Production. Application: Authentic
+
+OPEN Problem P-21061087 in environment NZ Pre-Production
+Problem detected at: 23:26 (UTC) 02.06.2021
+
+1 impacted infrastructure component
+
+Process
+UAT_PAYM* ( PAYM7)
+
+Connectivity problem
+TCP connectivity rate for process UAT_PAYM* ( PAYM7) on host AXS_UAT - nzu6x01v.unix.anznb.co.nz has decreased to 0 %
+
+https://ckk60131.live.dynatrace.com/#problems/problemdetails;pid=-4908435049989389631_1622676060000V2
